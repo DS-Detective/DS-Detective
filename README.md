@@ -1,2 +1,2 @@
-# syspy
+# DS-Detective
 chrome extension
